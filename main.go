@@ -131,7 +131,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/saucenao"         // 以图搜图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/scale"            // 叔叔的AI二次元图片放大
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/score"            // 分数
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/setutime"         // 来份涩图
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/setutime"         // 来份涩图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shadiao"          // 沙雕app
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shindan"          // 测定
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/steam"            // steam相关
@@ -176,7 +176,7 @@ import (
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/curse" // 骂人
 
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply" // 人工智能回复
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply" // 人工智能回复
 	_ "github.com/FloatTech/ZeroBot-Plugin-Playground/plugin/games"
 	_ "github.com/FloatTech/ZeroBot-Plugin-Playground/plugin/partygame"
 	_ "github.com/FloatTech/ZeroBot-Plugin-Playground/plugin/cybercat"
