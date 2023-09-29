@@ -180,6 +180,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin-Playground/plugin/cybercat"
 	_ "github.com/FloatTech/ZeroBot-Plugin-Playground/plugin/games"
 	_ "github.com/FloatTech/ZeroBot-Plugin-Playground/plugin/partygame"
+	"github.com/bincooo/llm-plugin"
 	
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
 
